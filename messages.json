@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "sender": "jean@somecompany.com",
+        "subject": "ご無沙汰しております",
+        "date": "2013/12/7 12:32:00",
+        "recipients": ["greg@somecompany.com"],
+        "message": "昼食をご一緒させてください。今年は共同作業できそうな案件がたくさんあります。"
+    },
+    {
+        "id": 1,
+        "sender": "maria@somecompany.com",
+        "subject": "私のノートPCはどこですか?",
+        "date": "2013/12/7 8:15:12",
+        "recipients": ["greg@somecompany.com"],
+        "message": "私の席の引き出しに返してくれたのだと思っていましたが、見当たりません。"
+    },
+    {
+        "id": 2,
+        "sender": "bill@somecompany.com",
+        "subject": "パイソンを探しています",
+        "date": "2013/12/6 20:35:02",
+        "recipients": ["greg@somecompany.com"],
+        "message": "すみません、ペットのパイソンがかごから逃げ出してしまいました。すばしっこい方ではないので、見かけたら教えてください。"
+    }
+]
